@@ -6,7 +6,7 @@
 ### Um pouquinho sobre mim:
 
 - :mortar_board: Formada em Engenharia de Produção e Pós Graduada em Desenvolvimento Full Stack
-- :books: Atualmente estudando HTML, CSS, TYPESCRIPT, NODEJS E PYTHON
+- :books: Atualmente estudando PYTHON e PHP
 - :blue_heart: Apaixonada por música e por descobrir coisas novas
 
 #
